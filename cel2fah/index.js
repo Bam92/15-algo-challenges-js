@@ -1,10 +1,10 @@
-module.exports = function convertToF(param) {
-    if(!isNaN(param)) {
-        if(param === 0) {
+module.exports = function convertToF(cel) {
+    if(!isNaN(cel)) {
+        if(cel === 0) {
             return 32;
         }
 
-        return param * 9/5 + 32;
+        return cel * 9/5 + 32;
     }
 }
 

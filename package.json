@@ -1,10 +1,11 @@
 {
   "name": "word-count",
   "version": "1.0.0",
-  "description": "",
+  "description": "15 Algorithm Challenges that Are Worth your Time",
   "main": "index.js",
   "scripts": {
-    "test": "mocha index.test"
+    "cel2fah": "mocha cel2fah/index.test",
+    "reverse": "mocha reverse/index.test"
   },
   "keywords": [],
   "author": "",
