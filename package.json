@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "cel2fah": "mocha cel2fah/index.test",
-    "reverse": "mocha reverse/index.test"
+    "reverse": "mocha reverse/index.test",
+    "factor": "mocha factor/index.test"
   },
   "keywords": [],
   "author": "",
