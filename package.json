@@ -6,7 +6,8 @@
   "scripts": {
     "cel2fah": "mocha cel2fah/index.test",
     "reverse": "mocha reverse/index.test",
-    "factor": "mocha factor/index.test"
+    "factor": "mocha factor/index.test",
+    "truncate": "mocha truncate/index.test"
   },
   "keywords": [],
   "author": "",
